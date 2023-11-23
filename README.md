@@ -3,10 +3,11 @@
 
 <br>
 
-<div style="display:flex;justify-content:left;align-items:left;">
-  <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidnavarrosaiz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="davidnavarrosaiz" /></p>
-  <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=davidnavarrosaiz&show_icons=true&theme=tokyonight&locale=en" alt="davidnavarrosaiz" /></p>
+<div style="display:flex;justify-content:center;align-items:center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidnavarrosaiz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="davidnavarrosaiz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davidnavarrosaiz&show_icons=true&theme=tokyonight&locale=en" alt="davidnavarrosaiz" />
 </div>
+
 
 
 <div>
