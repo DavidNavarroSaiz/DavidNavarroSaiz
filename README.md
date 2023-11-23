@@ -2,10 +2,10 @@
 <h3 align="center">Machine Learning And Computer Vision Developer</h3>
 
 
-<div style="display:flex;justify-content:center;align-items:center;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidnavarrosaiz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="davidnavarrosaiz" />
   <img src="https://github-readme-stats.vercel.app/api?username=davidnavarrosaiz&show_icons=true&theme=tokyonight&locale=en" alt="davidnavarrosaiz" />
-</div>
+</p>
 
 
 <br>
