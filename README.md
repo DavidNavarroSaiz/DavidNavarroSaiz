@@ -1,6 +1,7 @@
 <h1 align="center"> Hi 👋, I'm David Navarro</h1>
 <h3 align="center">Machine Learning And Computer Vision Developer</h3>
 
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidnavarrosaiz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="davidnavarrosaiz" />
