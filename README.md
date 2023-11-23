@@ -11,15 +11,6 @@
 
 </div>
 
-<style>
-    .logo-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: #f0f0f0;
-      padding: 10px;
-    }
-  </style>
 
 <div>
 
